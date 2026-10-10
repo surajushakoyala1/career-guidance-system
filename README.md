@@ -157,6 +157,7 @@ The application uses the following main tables:
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
+6. use the code
 
 ## License
 
