@@ -26,6 +26,7 @@ A comprehensive career guidance platform built with React, TypeScript, Node.js, 
 - bcryptjs for password hashing
 - CORS enabled
 
+- to check my website the URL : 1aicareerguidance.netlify.app
 ## Getting Started
 
 ### Prerequisites
